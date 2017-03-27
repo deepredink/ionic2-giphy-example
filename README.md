@@ -10,4 +10,4 @@ A simple ionic 2 app to demonstrate http api requests using giphy.com's API.
 
 ## Credits
 
-1. [Giphy API] (https://github.com/Giphy/GiphyAPI)
+1. [Giphy API](https://github.com/Giphy/GiphyAPI)
