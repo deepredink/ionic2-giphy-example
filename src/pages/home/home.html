@@ -1,0 +1,12 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Trends Gifs from Giphy.com
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content padding>
+	<ion-card *ngFor="let post of values">
+	  <img [src]="post.images.downsized.url" >
+	</ion-card>
+</ion-content>
